@@ -1,0 +1,11 @@
+email: die_cloud@yahoo.com
+fullname: Cloudieanda
+title: 'Cloudieanda Admin'
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$vuAu6pHLwSKN7QTm1zBAhO7B4F0Wpr.poTQE3voVoavC3DH/NlOg6
